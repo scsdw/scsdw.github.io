@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>完美避坑：hexo+githubpages搭建博客</title>
+    <link href="/2023/07/27/%E5%AE%8C%E7%BE%8E%E9%81%BF%E5%9D%91%EF%BC%9Ahexo-githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/07/27/%E5%AE%8C%E7%BE%8E%E9%81%BF%E5%9D%91%EF%BC%9Ahexo-githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<p>完美避坑：hexo+githubpages搭建博客~<br>#准备工作<br>1：git<br>2：nodejsv12+<br>3任意hexo主题，可以在这下载<a href="https://hexo.io/themes/">https://hexo.io/themes/</a><br>#正式开始<br>先去片尾看看吧！<br>1.1 安装git<br><img src="git.jpg"><br>下载地址：<a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/">https://registry.npmmirror.com/binary.html?path=git-for-windows/</a><br>注意！地址随时可能失效<br>建议尽快下载！<br>安装过程除了安装全选以外，其他全部下一步<br>1.2 安装nodejs<br>对于官网那捉急的下载速度，我更推荐你去中文网<br><a href="https://nodejs.cn/">https://nodejs.cn/</a></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=86 src="//music.163.com/outchain/player?type=2&id=32717172&auto=1&height=66"></iframe>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/07/25/hello-world/"/>
     <url>/2023/07/25/hello-world/</url>
